@@ -19,7 +19,7 @@
 ```yaml
 name:      Aayan Shandilya
 title:     The Signal Ronin
-clan:      Electronics & Telecommunication Engineering · DSCE, Bengaluru
+clan:      ELECTRICAL AND ELECTRONICS ENGINEERING,RVCE, Bengaluru
 class:     AI/ML Engineer
 rank:      Rising
 element:   Signals ⚡ Data
